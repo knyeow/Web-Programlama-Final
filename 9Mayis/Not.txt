@@ -1,0 +1,2 @@
+Buradaki index.js dosyası backend klasörünün içine konulacak.
+Diğerlerinin tümü react klasörünün içine konulacak.

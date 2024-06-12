@@ -1,0 +1,4 @@
+React Router dom indirmek için:
+> npm i react-router-dom
+
+komutunu çalıştırın

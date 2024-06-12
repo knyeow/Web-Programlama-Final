@@ -1,0 +1,2 @@
+pages, App.js ve style.css react klasöründeki (frontend) src klasörüne kopyalanacak.
+index.js ise nodejs klasörüne (backend) kopyalanacak.

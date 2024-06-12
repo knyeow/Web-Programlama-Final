@@ -1,0 +1,2 @@
+App.js ve users klasörünü frontend yani react klasörüne,
+index.js dosyasını ise backend yani nodejs klasörüne kopyalayın.
